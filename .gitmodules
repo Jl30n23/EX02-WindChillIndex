@@ -1,0 +1,3 @@
+[submodule "cs140-lib"]
+	path = cs140-lib
+	url = https://github.com/sbcc-cs140/cs140-lib.git
